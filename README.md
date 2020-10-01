@@ -1,2 +1,2 @@
-# personal
-主页界面
+# Hello,this is Caoduanxi's blog
+NICE TO MEET YOU！
